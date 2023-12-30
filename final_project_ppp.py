@@ -8,7 +8,7 @@ from gpiozero.pins.pigpio import PiGPIOFactory
 from time import sleep
 
 #for text message stuffs
-//insert twilio account info here
+#insert twilio account info here
 
 
 
