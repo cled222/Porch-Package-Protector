@@ -8,11 +8,7 @@ from gpiozero.pins.pigpio import PiGPIOFactory
 from time import sleep
 
 #for text message stuffs
-account_sid = "ACa9d8176a3a0f06c1f1529b978ab105d2"
-auth_token = "6e8f2b1d48280ab9ba624b99ad8c7668"
-
-twilio_num = "+18556592189"
-target_num = "+12144498784"
+//insert twilio account info here
 
 
 
